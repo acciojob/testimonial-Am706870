@@ -17,7 +17,7 @@
     margin-bottom: 10px;
 }
 
-.testimonials  p:nth-child(2){
+.testimonials-quote{
 	background-color: white;
 	text-align: right;
 	font-style: italic;
